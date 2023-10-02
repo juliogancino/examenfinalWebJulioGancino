@@ -12,7 +12,7 @@ El sistema tiene 4 partes importantes
 - Carga de vehículos desde la API de patiotuerca.com
 - Visualizador de vehículos cargados desde MongoDB Atlas
 
-Toda la interfáz gráfica fue desarrollada **responsive**, esto quiere decri que se adapta automáticamente a cualquier 
+Toda la interfáz gráfica fue desarrollada **responsive**, esto quiere decir que se adapta automáticamente a cualquier 
 dispositivo, para ello usamos el framework Bootstrap.
 
 ***
@@ -24,7 +24,7 @@ Que esta conformado de dos opciones y un buscador
 * Inicio: que me lleva al inicio de la página
 * Data In MongoDb: que me lleva a una página donde puedo ver todos los vehiculos que subí  a la base 
   de datos
-* Buscar: Es un buscador de veh'iculos directamente a la p'agina de https://ecuador.patiotuerca.com/, 
+* Buscar: Es un buscador de vehículos directamente a la página de https://ecuador.patiotuerca.com/, 
 por defecto esta seteado para buscar 6 veh'iculos. Puede aceptar cualquier tipo de nombre de marca 
 incluso nombres separados como Mercedes Benz.  
 
@@ -104,7 +104,7 @@ toda la base de datos y organizarla en la página web.
 ***
 ## Problemas presentados
 
-El principal problema que tuve es el tiempo, me ubiera gustado hacer mejores cosas, pero lastimosamente calculé mal
+El principal problema que tuve es el tiempo, me hubiera gustado hacer mejores cosas, pero lastimosamente calculé mal
 mis deberes profesionales, familiares y de estudiante de maestría, a parte de ello, cualquier problema que surgió lo 
 resolví leyendo los manuales directamente en las páginas oficiales, especialemente de Flask y de Jinja2, si bien puede 
 ver que hay código que no se utiliza es porque repeti varias veces la clase que nos impartió hasta entenderla muy bien
